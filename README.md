@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<b>User Story</b>
 
-Things you may want to cover:
+* As the Open To-do API, I want to return JSON representations of users, lists, and items	
 
-* Ruby version
+* As a user, I want to authenticate myself from the command line, using a username and password	
 
-* System dependencies
+* As a user, I want to create new users, lists, and items from the command line	
 
-* Configuration
+* As a user, I want to remove users and lists from the command line	
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* As a user, I want to update list and item attributes from the command line	
